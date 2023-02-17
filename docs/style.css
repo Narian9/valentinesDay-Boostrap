@@ -1,6 +1,6 @@
 body{
 
-    background-image: url(/valentinesDay-Boostrap/docs/assets/images/655e884b27961db30f885e6482a44b12.jpg);
+    background-image: url(/docs/assets/images/655e884b27961db30f885e6482a44b12.jpg);
     background-size:cover;
     background-repeat: no-repeat;
 }
@@ -24,7 +24,7 @@ body{
 }
 #vacio{
     /* width: 100%; */
-    background-image: url(/valentinesDay-Boostrap/docs/assets/images/fondoPequeño.jpg);
+    background-image: url(/docs/assets/images/fondoPequeño.jpg);
     
 }
 .form-check{
