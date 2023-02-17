@@ -1,6 +1,6 @@
 body{
 
-    background-image: url(/docs/assets/images/655e884b27961db30f885e6482a44b12.jpg);
+    background-image: url(./assets/images/655e884b27961db30f885e6482a44b12.jpg);
     background-size:cover;
     background-repeat: no-repeat;
 }
@@ -24,8 +24,16 @@ body{
 }
 #vacio{
     /* width: 100%; */
-    background-image: url(/docs/assets/images/fondoPequeño.jpg);
+    background-image: url(./assets/images/fondoPequeño.jpg);
     
+}
+.modal-content, .modal-body{
+    background-color: rgba(255, 127, 80, 0.61);
+}
+#staticBackdropLabel{
+    color: rgb(122, 17, 17);
+    font-family: 'Fugaz One', cursive;
+    text-align: center;
 }
 .form-check{
     font-family: 'Rubik 80s Fade', cursive;
